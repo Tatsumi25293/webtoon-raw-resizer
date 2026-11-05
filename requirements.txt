@@ -1,0 +1,4 @@
+PySide6>=6.5.0
+Pillow>=10.0.0
+customtkinter>=6.0.0
+windnd>=1.0.7
